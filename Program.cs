@@ -33,12 +33,17 @@ namespace _20_Valid_Parentheses
                 }
                 else if (s[i] == ')' || s[i] == ']' || s[i] == '}')
                 {
+                    if (chars.Count <= 0)
+                        return false;
                     if (chars.Pop() == s[i])
                         continue;
-                    else
-                        return false;
+
+                    return false;
                 }
             }
+
+            if (chars.Count > 0)
+                return false;
 
             return true;
         }
