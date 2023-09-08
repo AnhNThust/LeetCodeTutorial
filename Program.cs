@@ -5,7 +5,7 @@ namespace _20_Valid_Parentheses
     {
         public static void Main()
         {
-            bool isValid = IsValid("{()]}");
+            bool isValid = IsValid("{[()]}");
 
             Console.WriteLine(isValid);
         }
@@ -20,32 +20,16 @@ namespace _20_Valid_Parentheses
             for (int i = 0; i < s.Length; i++)
             {
                 if (s[i] == '(')
-                {
                     chars.Push(')');
-                }
                 else if (s[i] == '[')
-                {
                     chars.Push(']');
-                }
                 else if (s[i] == '{')
-                {
                     chars.Push('}');
-                }
-                else if (s[i] == ')' || s[i] == ']' || s[i] == '}')
-                {
-                    if (chars.Count <= 0)
-                        return false;
-                    if (chars.Pop() == s[i])
-                        continue;
-
+                else if (chars.Count <= 0 || chars.Pop() != s[i])
                     return false;
-                }
             }
 
-            if (chars.Count > 0)
-                return false;
-
-            return true;
+            return chars.Count <= 0;
         }
     }
 }
