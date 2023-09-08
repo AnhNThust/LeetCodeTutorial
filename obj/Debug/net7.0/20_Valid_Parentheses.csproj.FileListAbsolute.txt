@@ -1,0 +1,14 @@
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\bin\Debug\net7.0\20_Valid_Parentheses.exe
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\bin\Debug\net7.0\20_Valid_Parentheses.deps.json
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\bin\Debug\net7.0\20_Valid_Parentheses.runtimeconfig.json
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\bin\Debug\net7.0\20_Valid_Parentheses.dll
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\bin\Debug\net7.0\20_Valid_Parentheses.pdb
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\20_Valid_Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\20_Valid_Parentheses.AssemblyInfoInputs.cache
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\20_Valid_Parentheses.AssemblyInfo.cs
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\20_Valid_Parentheses.csproj.CoreCompileInputs.cache
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\20_Valid_Parentheses.dll
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\refint\20_Valid_Parentheses.dll
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\20_Valid_Parentheses.pdb
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\20_Valid_Parentheses.genruntimeconfig.cache
+F:\Basic_Programming_ws\cs_ws\20_Valid_Parentheses\obj\Debug\net7.0\ref\20_Valid_Parentheses.dll
